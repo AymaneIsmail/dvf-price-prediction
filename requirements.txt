@@ -1,0 +1,14 @@
+pandas
+requests
+numpy
+matplotlib
+seaborn
+notebook
+jupyter
+ipykernel
+osmnx
+pyrosm
+scikit-learn
+xgboost
+tensorflow
+# influxdb-client

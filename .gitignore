@@ -1,0 +1,7 @@
+.venv
+.vscode
+*.csv
+*.sqlite
+*.gpkg
+__pycache__
+node_modules
